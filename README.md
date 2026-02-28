@@ -37,7 +37,12 @@ My approach to designing this software began with identifying core entities and 
 In the future, I would continue using domain modeling, UML diagrams, and design patterns as foundational strategies. I would also incorporate additional techniques such as:
 
 Creating more detailed architectural diagrams
+
 Considering cloud-native design patterns
+
 Performing early scalability analysis
+
 Including security threat modeling during initial planning
+
 These strategies would help ensure that future applications are robust, secure, and adaptable to growth.
+
